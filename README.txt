@@ -1,0 +1,1 @@
+This is simple module for showing mnesia database on Erlang classes.
